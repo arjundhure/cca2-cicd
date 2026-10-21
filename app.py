@@ -306,6 +306,7 @@ st.markdown(
 )
 
 st.title("Student Performance Study")
+st.caption("Version 2.0 | CI/CD redeployment demo")
 
 st.markdown(
     "An exploratory tool for estimating final mathematics grades "
